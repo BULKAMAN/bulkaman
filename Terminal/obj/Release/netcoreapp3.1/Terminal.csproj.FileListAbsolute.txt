@@ -1,0 +1,13 @@
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.exe
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.deps.json
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.runtimeconfig.json
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.runtimeconfig.dev.json
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.dll
+D:\Bulat\Git\Matvey\Terminal\bin\Release\netcoreapp3.1\Terminal.pdb
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.csprojAssemblyReference.cache
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.AssemblyInfoInputs.cache
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.AssemblyInfo.cs
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.csproj.CoreCompileInputs.cache
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.dll
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.pdb
+D:\Bulat\Git\Matvey\Terminal\obj\Release\netcoreapp3.1\Terminal.genruntimeconfig.cache
