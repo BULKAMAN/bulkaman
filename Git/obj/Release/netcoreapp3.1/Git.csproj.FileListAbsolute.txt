@@ -1,0 +1,13 @@
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.exe
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.deps.json
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.runtimeconfig.json
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.runtimeconfig.dev.json
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.dll
+C:\Users\Tester\source\repos\Git\Git\bin\Release\netcoreapp3.1\Git.pdb
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.csprojAssemblyReference.cache
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.AssemblyInfoInputs.cache
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.AssemblyInfo.cs
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.csproj.CoreCompileInputs.cache
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.dll
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.pdb
+C:\Users\Tester\source\repos\Git\Git\obj\Release\netcoreapp3.1\Git.genruntimeconfig.cache
