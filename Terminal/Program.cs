@@ -26,16 +26,20 @@ namespace Terminal
                 Console.WriteLine("Wrong password or username.");
                 return;
             }
-            Console.WriteLine("Write 'help' to see some commands.");
-            string help = Console.ReadLine();
-            if (help == "help")
+            Menu menu = new Menu();
+            menu.ConsoleMenu();
+            bool ResetMenu = true;
+            while (ResetMenu == true)
             {
-                Console.WriteLine("1. Exit.");
-            }
-            int num = Convert.ToInt32(Console.ReadLine());
-            if (num == 1)
-            {
-                Environment.Exit(0);
+                int num = Convert.ToInt32(Console.ReadLine());
+                if (num == 1)
+                {
+                    menu.ConsoleMenu();
+                }
+                if (num == 0)
+                    Environment.Exit(0);
+                if (num == 2)
+                    menu.CommandsList();
             }
         }
     }
