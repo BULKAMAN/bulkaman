@@ -28,8 +28,7 @@ namespace Terminal
             }
             Menu menu = new Menu();
             menu.ConsoleMenu();
-            bool ResetMenu = true;
-            while (ResetMenu == true)
+            while (true)
             {
                 int num = Convert.ToInt32(Console.ReadLine());
                 if (num == 1)
