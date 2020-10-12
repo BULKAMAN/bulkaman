@@ -21,15 +21,27 @@ namespace Terminal
         public void CommandsList()
         {
             Console.WriteLine("All commands:");
-            Console.WriteLine("--Balance");
-            Console.WriteLine("--Calculator");
-            string balance = Console.ReadLine();
+            Console.WriteLine("--balance");
+            Console.WriteLine("--calculator");
+            string balance = Console.ReadLine().ToLower();
+            string calcul = Console.ReadLine().ToLower();
             Random rnd = new Random();
+            Calculator calc = new Calculator();
             int rndnum;
-            if (balance == "Balance" || balance == "balance")
+            if (balance == "balance")
             {
                 rndnum = rnd.Next(100, 10000);
                 Console.WriteLine(rndnum);
+                ConsoleMenu();
+            }
+            else
+            {
+                Console.WriteLine("Wrong command.");
+                ConsoleMenu();
+            }
+            if (calcul == "calculator")
+            {
+                calc.clCulator();
                 ConsoleMenu();
             }
             else
