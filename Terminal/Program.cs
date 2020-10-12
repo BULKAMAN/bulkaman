@@ -28,6 +28,7 @@ namespace Terminal
             }
             Menu menu = new Menu();
             menu.ConsoleMenu();
+            Calculator calc = new Calculator();
             while (true)
             {
                 int num = Convert.ToInt32(Console.ReadLine());
@@ -39,6 +40,11 @@ namespace Terminal
                     Environment.Exit(0);
                 if (num == 2)
                     menu.CommandsList();
+                if (num == 3)
+                {
+                    calc.clCulator();
+                    menu.ConsoleMenu();
+                }
             }
         }
     }
